@@ -15,3 +15,7 @@ streamlit run app/dashboard.py
 
 ## Author
 Samruddhi Jain
+Pranav Mantri
+Avni Gupta
+Mahak Agrawal
+
