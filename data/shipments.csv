@@ -1,0 +1,7 @@
+Shipment_ID,Origin,Destination,Weight,Volume,Delivery_Window
+S1,Mumbai,Pune,200,2,Morning
+S2,Mumbai,Pune,300,3,Morning
+S3,Mumbai,Nashik,150,1.5,Afternoon
+S4,Mumbai,Pune,400,4,Evening
+S5,Mumbai,Nashik,250,2.5,Afternoon
+S6,Mumbai,Pune,350,3.5,Morning
