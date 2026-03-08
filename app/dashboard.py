@@ -96,6 +96,10 @@ if uploaded_file is not None:
     # Create dataframe
     df = pd.read_csv(uploaded_file)
 
+    # Show only first 10 rows for demo
+    st.subheader("Sample of Uploaded Dataset")
+    st.dataframe(df.head(10))
+
     # Convert delivery date
     df["Delivery_Date"] = pd.to_datetime(df["Delivery_Date"])
 
