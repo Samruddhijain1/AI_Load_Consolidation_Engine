@@ -6,6 +6,12 @@ The system analyzes shipment data and groups shipments into optimal truck loads 
 
 An interactive dashboard built with Streamlit allows users to upload shipment datasets, run optimization, and visualize results such as trips reduction and truck utilization.
 
+## System Architecture
+![System Architecture](images/architecture.png)
+
+## User Flow
+![User Flow](images/userflow.png)
+
 ## Tech Stack
 Python, Streamlit, Pandas, Plotly
 
@@ -14,8 +20,8 @@ pip install -r requirements.txt
 streamlit run app/dashboard.py
 
 ## Author
-Samruddhi Jain
-Pranav Mantri
-Avni Gupta
+Samruddhi Jain  
+Pranav Mantri  
+Avni Gupta  
 Mahak Agrawal
 
