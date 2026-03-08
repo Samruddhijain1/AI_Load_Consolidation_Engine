@@ -7,7 +7,7 @@ The system analyzes shipment data and groups shipments into optimal truck loads 
 An interactive dashboard built with Streamlit allows users to upload shipment datasets, run optimization, and visualize results such as trips reduction and truck utilization.
 
 ## System Architecture
-![System Architecture](images/architecture.png)
+![System Architecture](images/Architecture.png)
 
 ## User Flow
 ![User Flow](images/userflow.png)
